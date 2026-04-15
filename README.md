@@ -78,19 +78,19 @@ Screenshots
 
 Admin Panel
 
-screenshots/admin-books.jpg
+screenshot/admin-books.jpg
 
 API Response
 
-screenshots/api-response.jpg
+screenshot/api-response.jpg
 
 Frontend UI
 
-screenshots/frontend-ui.jpg
+screenshot/frontend-ui.jpg
 
 Project Structure
 
-screenshots/project-structure.jpg
+screenshot/project-structure.jpg
 
 Sample Q&A
 
